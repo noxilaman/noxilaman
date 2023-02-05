@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noxilaman
-- 👀 I’m interested in Php Framework and web application framework.
+- 👀 I’m software engineer, Full Stack Developer, Backend DEveloper and Technical Specilist (Web Applicaiton)
 - 🌱 I’m currently working in Chiang Mai,Thailand
 
 <!---
